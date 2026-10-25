@@ -1,9 +1,8 @@
-# Dossiê de auditoria didático — SLC Agrícola S.A. (2025)
+# Dossiê de auditoria didático: SLC Agrícola S.A. (2025)
 
 **Preparador:** Marcos Aurélio de Brito Cunha  
 **Matrícula:** 241021631  
 **Data de preparação:** 25/10/2026  
-**Versão:** 2.0 — revisão de consistência pelo preparador; campo de revisão de terceiro em branco.
 
 **Natureza:** trabalho acadêmico baseado em fontes públicas e dados sintéticos. Não constitui auditoria independente nem opinião profissional sobre a companhia.
 
@@ -67,7 +66,7 @@ Os testes de população identificaram 1.043 divergências com suporte **sintét
 A matriz lista a NBC TA Estrutura Conceitual e cada NBC TA exigida de 200 a 600. Para a auditoria de 2025 e relatório de 11/03/2026, usaram-se as versões anteriores às revisões NBC TA 240 (R2) e 570 (R1), publicadas em 25/09/2026. Consulte o catálogo CFC indicado em `fontes.csv` e a versão específica antes de empregar qualquer PT em prática profissional.
 
 
-## Revisão 2.0: memórias e arquivos complementares
+## Revisão
 
 O PDF inclui as memórias D-EC a D-600, com minutas completas, cronograma, controles, riscos, respostas, análises de estimativas e grupo. Cada memória integra o PT de mesmo número. Veja `REVISAO_CONFORMIDADE.md` para o confronto com o roteiro.
 
