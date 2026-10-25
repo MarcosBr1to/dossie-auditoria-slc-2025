@@ -39,7 +39,7 @@ Revisão por terceiro: revisor ______; data ______; observações ______.
 | Relacionadas, continuidade e grupo | D-550/570/600 e mapas; materialidade hipotética dos componentes e limitações |
 | Eventos subsequentes | D-560; corte 25/10/26, ITR 1T26/2T26, distinção de condições existentes na data-base |
 | PDF, editável e reprodução | PDF/Markdown, scripts, requisitos, README e validação |
-| GitHub | Destino autorizado privado; autenticação e verificação remota necessárias, sem presumir publicação |
+| GitHub | Repositório privado MarcosBr1to/dossie-auditoria-slc-2025; arquivos e histórico de versões no Git |
 
 ## Limites
 

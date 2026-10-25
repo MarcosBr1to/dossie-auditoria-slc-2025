@@ -56,7 +56,7 @@ O primeiro script é determinístico com semente 24120631 e regenera o CSV de 50
 
 Se o visualizador não conseguir abrir o CSV integral de 74 MB, abra `base_sintetica_previa_5000.csv` ou um arquivo da pasta `base_partes/`. A prévia é **somente para navegação**, não é a amostra do PT 530. As 20 partes preservam as 500.000 linhas sem omissões; cada arquivo contém cabeçalho próprio. O CSV integral permanece como fonte canônica para todos os cálculos.
 
-**Tamanho da base:** 74.098.222 bytes (cerca de 70,7 MiB). O GitHub aceita o envio por Git de arquivos até 100 MiB, com aviso acima de 50 MiB; o upload pelo navegador aceita no máximo 25 MiB. Por isso, siga `INSTRUCOES_GITHUB.md` e envie o CSV com `git push`. O ZIP de transporte está ignorado por `.gitignore` e não precisa integrar o repositório. Esta cópia local ainda não foi publicada remotamente.
+**Tamanho da base:** 74.098.222 bytes (cerca de 70,7 MiB). O GitHub aceita o envio por Git de arquivos até 100 MiB, com aviso acima de 50 MiB; o upload pelo navegador aceita no máximo 25 MiB. Por isso, siga `INSTRUCOES_GITHUB.md` e envie o CSV com `git push`. O ZIP de transporte está ignorado por `.gitignore` e não precisa integrar o repositório.
 
 ## Leitura dos resultados
 
@@ -96,4 +96,4 @@ Para abrir os CSVs em planilha, importe como **UTF-8, separador vírgula**. Os r
 
 Não é necessário baixar novamente as fontes para reproduzir os cálculos: o extrato CVM e os parâmetros públicos estão preservados. Fontes novas exigem revisão consciente, sem substituir silenciosamente o exercício de 2025. No Windows o PDF usa Arial; em outros sistemas há alternativa Helvetica. Paginação e hash do PDF podem variar por fontes/versões/metadados, sem mudar os dados.
 
-O destino solicitado é o repositório **privado** `dossie-auditoria-slc-2025`. A publicação depende de autenticação e verificação remota; este README não comprova envio. A pesquisa posterior inclui ITR 1T26/2T26 até o corte de 25/10/2026, sem certificar exaustividade de todos os comunicados. Não há opinião profissional independente.
+Repositório **privado** de entrega: [MarcosBr1to/dossie-auditoria-slc-2025](https://github.com/MarcosBr1to/dossie-auditoria-slc-2025). O acesso exige autenticação e autorização do proprietário. A pesquisa posterior inclui ITR 1T26/2T26 até o corte de 25/10/2026, sem certificar exaustividade de todos os comunicados. Não há opinião profissional independente.
