@@ -1,0 +1,7 @@
+﻿rubrica,codigo_CVM,CVM_R_mil,RI_R_mil,diferenca_R_mil,fonte
+ativo_total,1,21341432.0000000000,21341432,0E-10,F01 p.105
+imobilizado_nota14,1.02.03.01 + 1.02.03.03,7111885.0000000000,7111885,0E-10,"F01 pp.105,156-158; exclui direito de uso"
+estoques,1.01.04,3722611.0000000000,3722611,0E-10,F01 p.105
+biologicos,1.01.05,2350421.0000000000,2350421,0E-10,F01 p.105
+caixa,1.01.01,2647586.0000000000,2647586,0E-10,F01 p.105
+receita_liquida,3.01.01,8553147.0000000000,8553147,0E-10,F01 p.107; agregado 3.01 inclui variacao de valor justo/VRL de 1206067

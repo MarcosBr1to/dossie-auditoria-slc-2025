@@ -1,0 +1,27 @@
+{
+  "natureza": "DADOS SINTETICOS - nao sao registros da SLC Agricola",
+  "semente": 24120631,
+  "linhas": 500000,
+  "unidade_base": "centavos de real",
+  "unidade_demonstracoes": "milhares de reais",
+  "totais_por_classe_centavos": {
+    "terras_cultura": 331550000000,
+    "correcao_solo": 105211300000,
+    "predios_benfeitorias": 79729500000,
+    "equipamentos_agricolas": 140964700000,
+    "veiculos": 12383700000,
+    "moveis_utensilios": 2910000000,
+    "equipamentos_escritorio": 3587100000,
+    "outros": 1851200000,
+    "imobilizado_andamento": 33001000000
+  },
+  "total_base_centavos": 711188500000,
+  "total_publicado_centavos": 711188500000,
+  "diferenca_centavos": 0,
+  "excecoes_inseridas": {
+    "depreciacao_terras": 7,
+    "divergencia_suporte": 1043,
+    "entrada_apos_corte": 501
+  },
+  "sha256_base": "b69cecdcdb249dd4191f6ca8f73ecbf0cb29855f5686cd28043a0ac9bdab950e"
+}

@@ -1,0 +1,5 @@
+﻿tipo,n,efeito_campo_R,tratamento,status,conclusao
+divergencia_suporte,1043,1118295.15,suporte menos contabil; nao e ajuste comprovado,SIMULADO - nao corrigido na base,menor que limiar quantitativo; acumulado por finalidade didatica
+entrada_apos_corte,501,nao determinado,saldo dos itens nao equivale automaticamente a distorcao,SIMULADO - nao corrigido na base,avaliacao qualitativa de corte; requer documento real
+depreciacao_terras,7,209818.1,"efeito no campo depreciacao; bruto tambem alterado, liquido preservado",SIMULADO - nao corrigido na base,nao somar a diferenca de suporte como erro contabil
+erros reais da SLC,desconhecido,desconhecido,sem livros e evidencia primaria,nao determinado,nenhum ajuste real proposto por este estudo

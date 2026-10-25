@@ -1,0 +1,1552 @@
+﻿registro_id,tipo_excecao,valor_efeito_centavos,observacao
+SYN-IMOB-000127,depreciacao_terras,2714430,terra sintética com depreciação indevida
+SYN-IMOB-000254,depreciacao_terras,5428860,terra sintética com depreciação indevida
+SYN-IMOB-000381,depreciacao_terras,1847413,terra sintética com depreciação indevida
+SYN-IMOB-000479,divergencia_suporte,1850748,suporte sintético > razão sintético
+SYN-IMOB-000508,depreciacao_terras,1600646,terra sintética com depreciação indevida
+SYN-IMOB-000635,depreciacao_terras,3141269,terra sintética com depreciação indevida
+SYN-IMOB-000762,depreciacao_terras,4618533,terra sintética com depreciação indevida
+SYN-IMOB-000889,depreciacao_terras,1630659,terra sintética com depreciação indevida
+SYN-IMOB-000958,divergencia_suporte,5752324,suporte sintético > razão sintético
+SYN-IMOB-000997,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-001437,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-001916,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-001994,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-002395,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-002874,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-002991,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-003353,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-003832,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-003988,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-004311,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-004790,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-004985,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-005269,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-005748,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-005982,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-006227,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-006706,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-006979,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-007185,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-007664,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-007976,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-008143,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-008622,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-008973,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-009101,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-009580,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-009970,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-010059,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-010538,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-010967,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-011017,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-011496,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-011964,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-011975,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-012454,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-012933,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-012961,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-013412,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-013891,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-013958,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-014370,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-014849,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-014955,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-015328,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-015807,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-015952,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-016286,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-016765,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-016949,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-017244,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-017723,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-017946,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-018202,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-018681,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-018943,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-019160,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-019639,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-019940,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-020118,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-020597,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-020937,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-021076,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-021555,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-021934,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-022034,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-022513,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-022931,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-022992,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-023471,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-023928,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-023950,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-024429,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-024908,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-024925,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-025387,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-025866,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-025922,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-026345,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-026824,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-026919,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-027303,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-027782,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-027916,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-028261,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-028740,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-028913,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-029219,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-029698,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-029910,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-030177,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-030656,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-030907,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-031135,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-031614,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-031904,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-032093,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-032572,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-032901,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-033051,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-033530,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-033898,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-034009,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-034488,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-034895,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-034967,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-035446,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-035892,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-035925,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-036404,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-036883,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-036889,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-037362,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-037841,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-037886,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-038320,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-038799,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-038883,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-039278,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-039757,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-039880,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-040236,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-040715,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-040877,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-041194,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-041673,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-041874,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-042152,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-042631,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-042871,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-043110,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-043589,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-043868,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-044068,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-044547,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-044865,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-045026,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-045505,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-045862,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-045984,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-046463,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-046859,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-046942,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-047421,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-047856,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-047900,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-048379,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-048853,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-048858,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-049337,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-049816,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-049850,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-050295,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-050774,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-050847,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-051253,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-051732,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-051844,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-052211,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-052690,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-052841,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-053169,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-053648,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-053838,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-054127,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-054606,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-054835,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-055085,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-055564,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-055832,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-056043,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-056522,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-056829,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-057001,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-057480,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-057826,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-057959,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-058438,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-058823,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-058917,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-059396,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-059820,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-059875,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-060354,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-060817,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-060833,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-061312,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-061791,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-061814,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-062270,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-062749,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-062811,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-063228,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-063707,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-063808,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-064186,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-064665,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-064805,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-065144,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-065623,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-065802,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-066102,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-066581,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-066799,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-067060,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-067539,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-067796,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-068018,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-068497,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-068793,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-068976,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-069455,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-069790,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-069934,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-070413,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-070787,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-070892,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-071371,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-071784,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-071850,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-072329,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-072781,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-072808,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-073287,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-073766,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-073778,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-074245,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-074724,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-074775,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-075203,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-075682,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-075772,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-076161,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-076640,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-076769,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-077119,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-077598,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-077766,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-078077,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-078556,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-078763,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-079035,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-079514,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-079760,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-079993,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-080472,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-080757,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-080951,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-081430,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-081754,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-081909,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-082388,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-082751,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-082867,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-083346,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-083748,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-083825,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-084304,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-084745,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-084783,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-085262,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-085741,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-085742,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-086220,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-086699,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-086739,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-087178,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-087657,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-087736,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-088136,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-088615,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-088733,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-089094,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-089573,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-089730,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-090052,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-090531,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-090727,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-091010,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-091489,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-091724,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-091968,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-092447,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-092721,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-092926,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-093405,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-093718,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-093884,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-094363,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-094715,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-094842,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-095321,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-095712,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-095800,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-096279,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-096709,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-096758,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-097237,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-097706,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-097716,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-098195,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-098674,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-098703,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-099153,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-099632,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-099700,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-100111,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-100590,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-100697,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-101069,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-101548,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-101694,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-102027,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-102506,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-102691,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-102985,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-103464,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-103688,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-103943,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-104422,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-104685,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-104901,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-105380,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-105682,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-105859,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-106338,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-106679,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-106817,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-107296,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-107676,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-107775,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-108254,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-108673,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-108733,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-109212,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-109670,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-109691,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-110170,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-110649,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-110667,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-111128,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-111607,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-111664,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-112086,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-112565,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-112661,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-113044,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-113523,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-113658,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-114002,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-114481,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-114655,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-114960,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-115439,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-115652,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-115918,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-116397,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-116649,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-116876,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-117355,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-117646,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-117834,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-118313,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-118643,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-118792,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-119271,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-119640,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-119750,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-120229,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-120637,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-120708,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-121187,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-121634,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-121666,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-122145,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-122624,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-122631,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-123103,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-123582,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-123628,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-124061,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-124540,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-124625,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-125019,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-125498,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-125622,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-125977,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-126456,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-126619,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-126935,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-127414,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-127616,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-127893,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-128372,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-128613,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-128851,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-129330,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-129610,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-129809,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-130288,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-130607,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-130767,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-131246,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-131604,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-131725,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-132204,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-132601,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-132683,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-133162,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-133598,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-133641,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-134120,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-134595,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-134599,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-135078,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-135557,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-135592,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-136036,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-136515,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-136589,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-136994,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-137473,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-137586,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-137952,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-138431,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-138583,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-138910,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-139389,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-139580,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-139868,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-140347,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-140577,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-140826,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-141305,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-141574,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-141784,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-142263,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-142571,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-142742,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-143221,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-143568,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-143700,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-144179,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-144565,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-144658,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-145137,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-145562,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-145616,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-146095,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-146559,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-146574,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-147053,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-147532,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-147556,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-148011,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-148490,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-148553,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-148969,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-149448,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-149550,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-149927,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-150406,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-150547,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-150885,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-151364,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-151544,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-151843,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-152322,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-152541,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-152801,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-153280,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-153538,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-153759,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-154238,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-154535,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-154717,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-155196,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-155532,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-155675,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-156154,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-156529,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-156633,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-157112,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-157526,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-157591,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-158070,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-158523,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-158549,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-159028,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-159507,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-159520,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-159986,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-160465,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-160517,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-160944,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-161423,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-161514,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-161902,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-162381,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-162511,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-162860,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-163339,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-163508,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-163818,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-164297,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-164505,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-164776,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-165255,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-165502,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-165734,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-166213,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-166499,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-166692,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-167171,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-167496,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-167650,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-168129,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-168493,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-168608,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-169087,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-169490,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-169566,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-170045,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-170487,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-170524,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-171003,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-171482,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-171484,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-171961,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-172440,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-172481,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-172919,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-173398,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-173478,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-173877,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-174356,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-174475,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-174835,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-175314,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-175472,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-175793,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-176272,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-176469,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-176751,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-177230,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-177466,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-177709,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-178188,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-178463,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-178667,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-179146,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-179460,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-179625,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-180104,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-180457,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-180583,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-181062,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-181454,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-181541,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-182020,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-182451,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-182499,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-182978,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-183448,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-183457,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-183936,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-184415,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-184445,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-184894,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-185373,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-185442,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-185852,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-186331,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-186439,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-186810,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-187289,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-187436,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-187768,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-188247,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-188433,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-188726,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-189205,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-189430,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-189684,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-190163,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-190427,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-190642,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-191121,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-191424,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-191600,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-192079,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-192421,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-192558,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-193037,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-193418,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-193516,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-193995,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-194415,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-194474,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-194953,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-195412,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-195432,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-195911,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-196390,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-196409,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-196869,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-197348,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-197406,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-197827,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-198306,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-198403,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-198785,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-199264,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-199400,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-199743,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-200222,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-200397,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-200701,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-201180,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-201394,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-201659,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-202138,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-202391,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-202617,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-203096,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-203388,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-203575,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-204054,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-204385,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-204533,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-205012,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-205382,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-205491,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-205970,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-206379,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-206449,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-206928,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-207376,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-207407,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-207886,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-208365,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-208373,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-208844,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-209323,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-209370,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-209802,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-210281,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-210367,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-210760,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-211239,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-211364,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-211718,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-212197,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-212361,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-212676,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-213155,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-213358,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-213634,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-214113,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-214355,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-214592,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-215071,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-215352,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-215550,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-216029,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-216349,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-216508,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-216987,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-217346,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-217466,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-217945,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-218343,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-218424,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-218903,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-219340,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-219382,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-219861,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-220337,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-220340,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-220819,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-221298,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-221334,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-221777,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-222256,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-222331,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-222735,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-223214,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-223328,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-223693,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-224172,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-224325,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-224651,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-225130,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-225322,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-225609,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-226088,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-226319,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-226567,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-227046,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-227316,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-227525,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-228004,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-228313,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-228483,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-228962,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-229310,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-229441,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-229920,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-230307,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-230399,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-230878,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-231304,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-231357,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-231836,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-232301,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-232315,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-232794,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-233273,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-233298,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-233752,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-234231,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-234295,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-234710,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-235189,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-235292,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-235668,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-236147,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-236289,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-236626,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-237105,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-237286,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-237584,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-238063,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-238283,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-238542,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-239021,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-239280,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-239500,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-239979,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-240277,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-240458,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-240937,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-241274,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-241416,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-241895,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-242271,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-242374,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-242853,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-243268,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-243332,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-243811,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-244265,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-244290,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-244769,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-245248,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-245262,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-245727,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-246206,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-246259,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-246685,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-247164,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-247256,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-247643,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-248122,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-248253,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-248601,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-249080,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-249250,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-249559,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-250038,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-250247,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-250517,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-250996,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-251244,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-251475,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-251954,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-252241,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-252433,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-252912,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-253238,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-253391,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-253870,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-254235,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-254349,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-254828,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-255232,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-255307,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-255786,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-256229,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-256265,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-256744,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-257223,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-257226,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-257702,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-258181,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-258223,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-258660,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-259139,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-259220,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-259618,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-260097,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-260217,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-260576,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-261055,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-261214,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-261534,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-262013,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-262211,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-262492,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-262971,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-263208,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-263450,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-263929,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-264205,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-264408,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-264887,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-265202,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-265366,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-265845,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-266199,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-266324,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-266803,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-267196,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-267282,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-267761,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-268193,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-268240,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-268719,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-269190,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-269198,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-269677,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-270156,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-270187,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-270635,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-271114,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-271184,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-271593,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-272072,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-272181,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-272551,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-273030,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-273178,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-273509,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-273988,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-274175,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-274467,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-274946,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-275172,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-275425,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-275904,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-276169,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-276383,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-276862,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-277166,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-277341,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-277820,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-278163,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-278299,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-278778,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-279160,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-279257,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-279736,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-280157,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-280215,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-280694,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-281154,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-281173,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-281652,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-282131,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-282151,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-282610,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-283089,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-283148,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-283568,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-284047,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-284145,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-284526,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-285005,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-285142,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-285484,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-285963,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-286139,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-286442,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-286921,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-287136,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-287400,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-287879,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-288133,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-288358,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-288837,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-289130,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-289316,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-289795,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-290127,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-290274,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-290753,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-291124,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-291232,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-291711,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-292121,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-292190,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-292669,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-293118,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-293148,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-293627,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-294106,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-294115,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-294585,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-295064,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-295112,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-295543,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-296022,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-296109,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-296501,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-296980,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-297106,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-297459,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-297938,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-298103,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-298417,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-298896,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-299100,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-299375,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-299854,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-300097,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-300333,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-300812,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-301094,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-301291,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-301770,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-302091,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-302249,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-302728,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-303088,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-303207,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-303686,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-304085,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-304165,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-304644,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-305082,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-305123,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-305602,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-306079,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-306081,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-306560,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-307039,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-307076,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-307518,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-307997,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-308073,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-308476,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-308955,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-309070,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-309434,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-309913,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-310067,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-310392,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-310871,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-311064,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-311350,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-311829,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-312061,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-312308,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-312787,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-313058,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-313266,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-313745,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-314055,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-314224,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-314703,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-315052,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-315182,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-315661,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-316049,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-316140,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-316619,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-317046,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-317098,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-317577,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-318043,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-318056,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-318535,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-319014,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-319040,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-319493,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-319972,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-320037,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-320451,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-320930,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-321034,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-321409,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-321888,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-322031,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-322367,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-322846,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-323028,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-323325,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-323804,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-324025,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-324283,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-324762,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-325022,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-325241,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-325720,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-326019,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-326199,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-326678,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-327016,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-327157,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-327636,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-328013,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-328115,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-328594,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-329010,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-329073,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-329552,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-330007,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-330031,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-330510,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-330989,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-331004,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-331468,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-331947,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-332001,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-332426,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-332905,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-332998,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-333384,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-333863,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-333995,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-334342,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-334821,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-334992,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-335300,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-335779,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-335989,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-336258,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-336737,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-336986,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-337216,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-337695,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-337983,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-338174,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-338653,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-338980,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-339132,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-339611,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-339977,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-340090,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-340569,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-340974,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-341048,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-341527,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-341971,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-342006,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-342485,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-342964,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-342968,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-343443,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-343922,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-343965,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-344401,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-344880,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-344962,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-345359,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-345838,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-345959,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-346317,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-346796,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-346956,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-347275,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-347754,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-347953,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-348233,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-348712,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-348950,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-349191,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-349670,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-349947,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-350149,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-350628,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-350944,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-351107,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-351586,divergencia_suporte,132950,suporte sintético > razão sintético
+SYN-IMOB-351941,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-352065,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-352544,divergencia_suporte,124766,suporte sintético > razão sintético
+SYN-IMOB-352938,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-353023,divergencia_suporte,127815,suporte sintético > razão sintético
+SYN-IMOB-353502,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-353935,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-353981,divergencia_suporte,109923,suporte sintético > razão sintético
+SYN-IMOB-354460,divergencia_suporte,105429,suporte sintético > razão sintético
+SYN-IMOB-354932,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-354939,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-355418,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-355897,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-355929,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-356376,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-356855,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-356926,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-357334,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-357813,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-357923,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-358292,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-358771,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-358920,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-359250,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-359729,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-359917,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-360208,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-360687,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-360914,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-361166,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-361645,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-361911,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-362124,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-362603,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-362908,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-363082,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-363561,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-363905,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-364040,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-364519,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-364902,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-364998,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-365477,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-365899,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-365956,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-366435,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-366896,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-366914,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-367393,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-367872,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-367893,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-368351,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-368830,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-368890,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-369309,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-369788,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-369887,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-370267,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-370746,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-370884,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-371225,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-371704,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-371881,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-372183,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-372662,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-372878,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-373141,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-373620,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-373875,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-374099,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-374578,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-374872,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-375057,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-375536,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-375869,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-376015,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-376494,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-376866,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-376973,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-377452,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-377863,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-377931,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-378410,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-378860,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-378889,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-379368,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-379847,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-379857,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-380326,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-380805,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-380854,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-381284,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-381763,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-381851,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-382242,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-382721,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-382848,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-383200,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-383679,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-383845,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-384158,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-384637,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-384842,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-385116,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-385595,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-385839,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-386074,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-386553,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-386836,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-387032,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-387511,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-387833,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-387990,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-388469,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-388830,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-388948,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-389427,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-389827,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-389906,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-390385,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-390824,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-390864,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-391343,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-391821,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-391822,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-392301,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-392780,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-392818,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-393259,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-393738,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-393815,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-394217,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-394696,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-394812,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-395175,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-395654,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-395809,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-396133,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-396612,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-396806,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-397091,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-397570,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-397803,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-398049,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-398528,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-398800,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-399007,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-399486,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-399797,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-399965,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-400444,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-400794,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-400923,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-401402,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-401791,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-401881,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-402360,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-402788,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-402839,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-403318,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-403785,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-403797,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-404276,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-404755,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-404782,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-405234,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-405713,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-405779,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-406192,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-406671,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-406776,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-407150,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-407629,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-407773,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-408108,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-408587,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-408770,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-409066,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-409545,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-409767,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-410024,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-410503,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-410764,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-410982,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-411461,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-411761,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-411940,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-412419,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-412758,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-412898,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-413377,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-413755,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-413856,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-414335,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-414752,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-414814,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-415293,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-415749,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-415772,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-416251,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-416730,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-416746,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-417209,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-417688,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-417743,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-418167,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-418646,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-418740,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-419125,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-419604,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-419737,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-420083,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-420562,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-420734,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-421041,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-421520,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-421731,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-421999,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-422478,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-422728,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-422957,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-423436,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-423725,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-423915,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-424394,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-424722,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-424873,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-425352,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-425719,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-425831,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-426310,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-426716,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-426789,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-427268,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-427713,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-427747,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-428226,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-428705,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-428710,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-429184,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-429663,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-429707,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-430142,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-430621,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-430704,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-431100,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-431579,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-431701,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-432058,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-432537,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-432698,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-433016,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-433495,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-433695,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-433974,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-434453,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-434692,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-434932,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-435411,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-435689,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-435890,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-436369,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-436686,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-436848,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-437327,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-437683,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-437806,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-438285,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-438680,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-438764,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-439243,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-439677,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-439722,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-440201,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-440674,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-440680,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-441159,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-441638,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-441671,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-442117,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-442596,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-442668,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-443075,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-443554,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-443665,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-444033,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-444512,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-444662,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-444991,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-445470,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-445659,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-445949,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-446428,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-446656,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-446907,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-447386,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-447653,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-447865,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-448344,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-448650,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-448823,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-449302,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-449647,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-449781,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-450260,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-450644,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-450739,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-451218,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-451641,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-451697,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-452176,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-452638,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-452655,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-453134,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-453613,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-453635,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-454092,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-454571,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-454632,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-455050,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-455529,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-455629,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-456008,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-456487,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-456626,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-456966,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-457445,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-457623,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-457924,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-458403,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-458620,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-458882,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-459361,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-459617,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-459840,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-460319,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-460614,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-460798,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-461277,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-461611,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-461756,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-462235,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-462608,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-462714,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-463193,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-463605,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-463672,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-464151,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-464602,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-464630,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-465109,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-465588,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-465599,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-466067,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-466546,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-466596,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-467025,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-467504,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-467593,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-467983,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-468462,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-468590,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-468941,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-469420,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-469587,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-469899,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-470378,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-470584,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-470857,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-471336,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-471581,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-471815,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-472294,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-472578,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-472773,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-473252,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-473575,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-473731,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-474210,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-474572,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-474689,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-475168,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-475569,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-475647,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-476126,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-476566,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-476605,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-477084,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-477563,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-477563,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-478042,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-478521,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-478560,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-479000,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-479479,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-479557,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-479958,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-480437,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-480554,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-480916,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-481395,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-481551,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-481874,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-482353,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-482548,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-482832,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-483311,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-483545,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-483790,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-484269,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-484542,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-484748,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-485227,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-485539,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-485706,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-486185,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-486536,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-486664,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-487143,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-487533,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-487622,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-488101,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-488530,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-488580,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-489059,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-489527,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-489538,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-490017,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-490496,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-490524,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-490975,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-491454,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-491521,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-491933,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-492412,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-492518,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-492891,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-493370,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-493515,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-493849,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-494328,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-494512,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-494807,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-495286,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-495509,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-495765,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-496244,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-496506,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-496723,divergencia_suporte,119018,suporte sintético > razão sintético
+SYN-IMOB-497202,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-497503,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-497681,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-498160,divergencia_suporte,106542,suporte sintético > razão sintético
+SYN-IMOB-498500,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-498639,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-499118,divergencia_suporte,100000,suporte sintético > razão sintético
+SYN-IMOB-499497,entrada_apos_corte,0,data sintética após 31/12/2025
+SYN-IMOB-499597,divergencia_suporte,100000,suporte sintético > razão sintético

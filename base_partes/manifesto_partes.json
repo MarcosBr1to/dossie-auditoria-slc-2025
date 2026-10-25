@@ -1,0 +1,152 @@
+{
+  "aviso": "DADOS SINTETICOS; nenhuma linha e registro real da SLC Agricola",
+  "arquivo_original": "base_imobilizado_sintetica_500000.csv",
+  "linhas_original": 500000,
+  "partes": [
+    {
+      "arquivo": "base_sintetica_parte_01.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 338791870324,
+      "tamanho_bytes": 3588665,
+      "sha256": "2ae0a26437874eb0d97bda2749f769063badfd6be1b97e67833cc61385973bdd"
+    },
+    {
+      "arquivo": "base_sintetica_parte_02.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7542097238,
+      "tamanho_bytes": 3582001,
+      "sha256": "8ada0bd730a9ebd0c699214c2d52cc220d25b8f0c29d42ceda48310407a1eff0"
+    },
+    {
+      "arquivo": "base_sintetica_parte_03.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7455934060,
+      "tamanho_bytes": 3581743,
+      "sha256": "d7b5c3e55a856c30eebb6a4ed1e02ac5b7aa42dce662a30db38f167f25e5d113"
+    },
+    {
+      "arquivo": "base_sintetica_parte_04.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7508774757,
+      "tamanho_bytes": 3582192,
+      "sha256": "b8d1e24e753fe9c080b3cefc99a804d13620228509f67aacf1e0d53777a6fe9c"
+    },
+    {
+      "arquivo": "base_sintetica_parte_05.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7541113751,
+      "tamanho_bytes": 3582021,
+      "sha256": "509cc084fbfdae8f0e8b0709cc210907c14b1d02726c6a29a0141f1ac769004f"
+    },
+    {
+      "arquivo": "base_sintetica_parte_06.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7527688300,
+      "tamanho_bytes": 3582131,
+      "sha256": "ade8910765296f2b8affb67cd8df1e4ac25567bb7fa1ce29bdc8995ab0d0a1e4"
+    },
+    {
+      "arquivo": "base_sintetica_parte_07.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7488803941,
+      "tamanho_bytes": 3581740,
+      "sha256": "7f58ef0293a5701364f4213ac3801df4b2f301f2fb130b37e92126d28eb3b089"
+    },
+    {
+      "arquivo": "base_sintetica_parte_08.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7512291218,
+      "tamanho_bytes": 3581771,
+      "sha256": "95bb55b9c7495fafebc2a347a8b58eaaf6ae47a9f2e377661ecf70a40506a8c6"
+    },
+    {
+      "arquivo": "base_sintetica_parte_09.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7519330389,
+      "tamanho_bytes": 3581891,
+      "sha256": "3682e9cdba36bc586685018287c4c747de8d69c34d3584ad8cf09d5242d70f8b"
+    },
+    {
+      "arquivo": "base_sintetica_parte_10.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7522933132,
+      "tamanho_bytes": 3581651,
+      "sha256": "f4e3dc5ad72a75bf625e02bbb131a381295fe9f2e4091ec7af045d5794ad0e0b"
+    },
+    {
+      "arquivo": "base_sintetica_parte_11.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7474980459,
+      "tamanho_bytes": 3581650,
+      "sha256": "1a973a473166166278bc32070a1d29720c1d1efd9ee7787f39932a6b46a4484a"
+    },
+    {
+      "arquivo": "base_sintetica_parte_12.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7515817437,
+      "tamanho_bytes": 3582086,
+      "sha256": "a5661360f3e377b7de02069f8da3ed79ab691ed94ac8cbb7d45a1d2ad0a98a32"
+    },
+    {
+      "arquivo": "base_sintetica_parte_13.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7547021921,
+      "tamanho_bytes": 3582235,
+      "sha256": "0633dce33df939630deb15bd287b6db032f71633ef6d8b3ac5d2e2e3d5db33c3"
+    },
+    {
+      "arquivo": "base_sintetica_parte_14.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 7513254056,
+      "tamanho_bytes": 3582020,
+      "sha256": "ac62d1f4d00e8bb15c76d9d078eaa1d163c3a43bb7cb2199495a88957ba15bd8"
+    },
+    {
+      "arquivo": "base_sintetica_parte_15.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 99767380675,
+      "tamanho_bytes": 4071483,
+      "sha256": "24f5a2fc2ef94fd604eee47b6f905112e2d52ed92161cabebd6f8a1b5d58cd5e"
+    },
+    {
+      "arquivo": "base_sintetica_parte_16.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 35155460161,
+      "tamanho_bytes": 4105188,
+      "sha256": "43f5decdbcdf132110054674d006568d33700b3bff0cfe2717f5cf7b5d757d65"
+    },
+    {
+      "arquivo": "base_sintetica_parte_17.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 35368521451,
+      "tamanho_bytes": 4105560,
+      "sha256": "3e5e684f2ed631dd71b8329afe165b08d12d95f78a4005ccb189a19a6c52095c"
+    },
+    {
+      "arquivo": "base_sintetica_parte_18.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 35120860994,
+      "tamanho_bytes": 4104864,
+      "sha256": "87a8ba8a754b9d11d82de21c7cce8010d6a702f7af87d99c934e06f37bf982a0"
+    },
+    {
+      "arquivo": "base_sintetica_parte_19.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 30589889052,
+      "tamanho_bytes": 3852932,
+      "sha256": "07b439df1606d7c55a8eff3f8acd7552905bdca3e70c7c0529b0bf60b769a8da"
+    },
+    {
+      "arquivo": "base_sintetica_parte_20.csv",
+      "linhas": 25000,
+      "valor_contabil_centavos": 38724476684,
+      "tamanho_bytes": 3708464,
+      "sha256": "4089bbe86bd569b4aa5730c7021c032389b8a7cfb093b6f4f1476f98905f88c8"
+    }
+  ],
+  "previa": "base_sintetica_previa_5000.csv",
+  "linhas_previa": 5000,
+  "regra_previa": "cada 100o registro; somente navegacao visual, nao e amostra de auditoria",
+  "valor_total_centavos": 711188500000,
+  "sha256_original": "b69cecdcdb249dd4191f6ca8f73ecbf0cb29855f5686cd28043a0ac9bdab950e"
+}

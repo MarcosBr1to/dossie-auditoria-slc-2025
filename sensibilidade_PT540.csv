@@ -1,0 +1,7 @@
+﻿cenario,area_ha_interpretada,produtividade_sc_ha,preco_R_sc,fator_preco,fator_produtividade,receita_potencial_R_mil,delta_R_mil,natureza,fonte
+Base pública,109768,68.59,97.68,1,1,735431.46,0.00,SIMULADO: receita bruta potencial; nao e valor justo,F01 p.132
+Preço -5%,109768,68.59,97.68,0.95,1,698659.89,-36771.57,SIMULADO: receita bruta potencial; nao e valor justo,F01 p.132
+Preço +5%,109768,68.59,97.68,1.05,1,772203.03,36771.57,SIMULADO: receita bruta potencial; nao e valor justo,F01 p.132
+Produtividade -10%,109768,68.59,97.68,1,0.9,661888.32,-73543.15,SIMULADO: receita bruta potencial; nao e valor justo,F01 p.132
+Preço -5% e produtividade -10%,109768,68.59,97.68,0.95,0.9,628793.90,-106637.56,SIMULADO: receita bruta potencial; nao e valor justo,F01 p.132
+Preço +5% e produtividade +10%,109768,68.59,97.68,1.05,1.1,849423.34,113991.88,SIMULADO: receita bruta potencial; nao e valor justo,F01 p.132

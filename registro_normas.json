@@ -1,0 +1,445 @@
+[
+  {
+    "norma": "ESTRUTURA CONCEITUAL",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2015/NBCTAESTRUTURACONCEITUAL",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTAESTRUTURACONCEITUAL.pdf",
+    "paginas": 27,
+    "status": "texto consultado",
+    "sha256": "23dfccd7d7285433e39f3b844a4b02bb5ba2cdc2dc6fb0cea8ec0e0ec18f63f4",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 10-17, 25-33",
+    "paginas_itens_identificados": [
+      4,
+      5,
+      6,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "norma": "NBC TA 200 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA200(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA200(R1).pdf",
+    "paginas": 24,
+    "status": "texto consultado",
+    "sha256": "ab09682da002a1d03434ab0a3489bbb6f2dc4011f5b9d9e770f64c52c78c8dff",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 11-24",
+    "paginas_itens_identificados": [
+      3,
+      6,
+      7
+    ]
+  },
+  {
+    "norma": "NBC TA 210 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA210(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA210(R1).pdf",
+    "paginas": 25,
+    "status": "texto consultado",
+    "sha256": "29f444554187ed38a6279fae0d20e492cab33eaad00bb3b7d8daf0179f224a56",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 6-10",
+    "paginas_itens_identificados": [
+      2,
+      3
+    ]
+  },
+  {
+    "norma": "NBC TA 220(R3)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2021/NBCTA220(R3)&arquivo=NBCTA220%20(R3).doc",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA220%20(R3).pdf",
+    "paginas": 37,
+    "status": "texto consultado",
+    "sha256": "b7e9e3426e97a404a9edc4a979b5dcb2eec8626f6982208de46ec28219dd6464",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 13-41",
+    "paginas_itens_identificados": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "norma": "NBC TA 230 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA230(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA230(R1).pdf",
+    "paginas": 16,
+    "status": "texto consultado",
+    "sha256": "561f570e30c78b675bab6678ba2cc787a8eec610f95d80d065c493e6c5912736",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 8-16, A21 e A23",
+    "paginas_itens_identificados": [
+      3,
+      4,
+      12,
+      13
+    ]
+  },
+  {
+    "norma": "NBC TA 240 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA240(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA240(R1).pdf",
+    "paginas": 41,
+    "status": "texto consultado",
+    "sha256": "a82570962a924ed2351df585232b85d135c9971e4c5fcf3cab84f97e66e12ff3",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 12-17, 24-33",
+    "paginas_itens_identificados": [
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "norma": "NBC TA 250",
+    "url": "https://www1.cfc.org.br/sisweb/sre/detalhes_sre.aspx?codigo=2019/NBCTA250",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA250.pdf",
+    "paginas": 16,
+    "status": "texto consultado",
+    "sha256": "ed1beeba141c6e5e100074e6c59ae615c37b25d8e0ce5a112e5787cf021d651b",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 12-30",
+    "paginas_itens_identificados": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "norma": "NBC TA 260(R2)",
+    "url": "https://cfc.org.br/wp-content/uploads/2026/06/NBCTA260-R2-2.pdf",
+    "pdf_url": "https://cfc.org.br/wp-content/uploads/2026/06/NBCTA260-R2-2.pdf",
+    "paginas": 25,
+    "status": "texto consultado",
+    "sha256": "12c0ad6f56dbfdbe00dcacc70c75d3ccfffc22f9f58ec9b7cdf832c707a5f3ae",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 15-18, 21-23",
+    "paginas_itens_identificados": [
+      5,
+      6
+    ]
+  },
+  {
+    "norma": "NBC TA 265",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2009/001210",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1210.pdf",
+    "paginas": 14,
+    "status": "texto consultado",
+    "sha256": "171f9c45c0e192c069e2c85b539ade21e55f82afd734d724163d0035e046ed35",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 8-11",
+    "paginas_itens_identificados": [
+      5,
+      6
+    ]
+  },
+  {
+    "norma": "NBC TA 300 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA300(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA300(R1).pdf",
+    "paginas": 15,
+    "status": "texto consultado",
+    "sha256": "fd9109d3e24111f3c52f8971c3bf0ccb1a5715c00268804c91c4d20c0d8d9978",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 7-12",
+    "paginas_itens_identificados": [
+      3
+    ]
+  },
+  {
+    "norma": "NBC TA 315 (R2)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2021/NBCTA315(R2)&arquivo=NBCTA315(R2).doc",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA315(R2).pdf",
+    "paginas": 93,
+    "status": "texto consultado",
+    "sha256": "b8472136904c87a4710749207d532605767a3609b7c46851fdec88d95f42eca3",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 19-37",
+    "paginas_itens_identificados": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "norma": "NBC TA 320 (R1)",
+    "url": "https://www1.cfc.org.br/sisweb/sre/detalhes_sre.aspx?codigo=2016/NBCTA320(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA320(R1).pdf",
+    "paginas": 11,
+    "status": "texto consultado",
+    "sha256": "eabdeb8bbe666a022ab1c6fda926f5cdc3b42fb574ac85c52720710f987f45a2",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 10-14",
+    "paginas_itens_identificados": [
+      4
+    ]
+  },
+  {
+    "norma": "NBC TA 330 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA330(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA330(R1).pdf",
+    "paginas": 29,
+    "status": "texto consultado",
+    "sha256": "e55f8ab79f3fd7e7d8854ce88cf4658f3f59fcaba9f8ea1ff732a8afbbaa23dd",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 5-21",
+    "paginas_itens_identificados": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "norma": "NBC TA 402",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2009/001215",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1215.pdf",
+    "paginas": 30,
+    "status": "texto consultado",
+    "sha256": "613bae6fc96d13f528b7f1e10ebb163f362e73b57a155fa9e93b3f96d1debdc4",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 9-17",
+    "paginas_itens_identificados": [
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "norma": "NBC TA 450 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA450(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA450(R1).pdf",
+    "paginas": 16,
+    "status": "texto consultado",
+    "sha256": "b6163baebc25cd3dab0b01bf3c74bab5fffcccd1573bf19d45b258335de4de42",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 5-15",
+    "paginas_itens_identificados": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "norma": "NBC TA 500 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA500(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA500(R1).pdf",
+    "paginas": 21,
+    "status": "texto consultado",
+    "sha256": "f77d7c289277652dd2981a135724ed2be74fff98aa35501da7c4d196c202b02f",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 6-9",
+    "paginas_itens_identificados": [
+      3
+    ]
+  },
+  {
+    "norma": "NBC TA 501",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2009/001218",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1218.pdf",
+    "paginas": 12,
+    "status": "texto consultado",
+    "sha256": "34bf6e3b45c31078e90738ec8bd2a8234f5a87ff606c9139c03e4fe5c4ed1244",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 4-12",
+    "paginas_itens_identificados": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "norma": "NBC TA 505",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2009/001219",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1219.pdf",
+    "paginas": 14,
+    "status": "texto consultado",
+    "sha256": "c5fad52f72625fd44d7c556192daf8b6ca9fd8e841ddf976f59e542ea9222dde",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 7-16",
+    "paginas_itens_identificados": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "norma": "NBC TA 510 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA510(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA510(R1).pdf",
+    "paginas": 21,
+    "status": "texto consultado",
+    "sha256": "c245721b7383799b94a53932a9702128e5cb3ddcf09908a4c3d21dac62f7bcbb",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 5-13",
+    "paginas_itens_identificados": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "norma": "NBC TA 520",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2009/001221",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1221.pdf",
+    "paginas": 11,
+    "status": "texto consultado",
+    "sha256": "3c082720d064cef623e661e81f8706d5210466e0c60370923a3ff9ffbff63b6f",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 5-7",
+    "paginas_itens_identificados": [
+      5
+    ]
+  },
+  {
+    "norma": "NBC TA 530",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2009/001222",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1222.pdf",
+    "paginas": 19,
+    "status": "texto consultado",
+    "sha256": "5a5783ac62b5a8eb7f9634f89003578410cfe16f94629ec80f00817be7e68930",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 6-15",
+    "paginas_itens_identificados": [
+      6,
+      7
+    ]
+  },
+  {
+    "norma": "NBC TA 540 (R2)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2019/NBCTA540(R2)&arquivo=NBCTA540(R2).doc",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA540(R2).pdf",
+    "paginas": 50,
+    "status": "texto consultado",
+    "sha256": "f75e306668f288e036d54396a824096cd4a1e586a40b262ea95ccd7adb28e6bd",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 13-31",
+    "paginas_itens_identificados": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "norma": "NBC TA 550",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2009/001224",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/RES_1224.pdf",
+    "paginas": 22,
+    "status": "texto consultado",
+    "sha256": "c7d67567d90f2966ca66dbc68d8fb60e878853cb13d8602d9038d126b8febe7f",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 11-27",
+    "paginas_itens_identificados": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "norma": "NBC TA 560 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA560(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA560(R1).pdf",
+    "paginas": 13,
+    "status": "texto consultado",
+    "sha256": "870d630bb48b0d4cb8328721989f19297b82b903de8dab0c2b586e52b9a73a93",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 6-17",
+    "paginas_itens_identificados": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "norma": "NBC TA 570 (2016)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA570",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA570.pdf",
+    "paginas": 22,
+    "status": "texto consultado",
+    "sha256": "0fb12c43665e9848fe15db6125e120837666c7d2efdbf24f23ad45e27e3fca21",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 10-23",
+    "paginas_itens_identificados": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "norma": "NBC TA 580 (R1)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2016/NBCTA580(R1)",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBCTA580(R1).pdf",
+    "paginas": 16,
+    "status": "texto consultado",
+    "sha256": "7d70ab0fefcc4e1b007d7a6b146bceb7f981505e313cef5bfd063be276366d25",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 9-20",
+    "paginas_itens_identificados": [
+      3,
+      4
+    ]
+  },
+  {
+    "norma": "NBC TA 600 (R2)",
+    "url": "https://www2.cfc.org.br/sisweb/sre/detalhes_sre.aspx?Codigo=2023/NBCTA600(R2)&arquivo=NBC%20TA%20600%20(R2).doc",
+    "pdf_url": "https://www1.cfc.org.br/sisweb/SRE/docs/NBC%20TA%20600%20(R2).pdf",
+    "paginas": 70,
+    "status": "texto consultado",
+    "sha256": "5537d85df3321d398bf430d58c0ba561ca190f1fa86582e8abbaefdebb87ddd3",
+    "data_acesso": "25/10/2026",
+    "exercicio": "2025",
+    "itens_utilizados": "itens 16-59",
+    "paginas_itens_identificados": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "natureza": "APENAS TESTES SOBRE DADOS SINTETICOS",
+  "populacao": 500000,
+  "amostra_aleatoria": 1200,
+  "amostra_dirigida_50_maiores": 50,
+  "excecoes_populacao": {
+    "depreciacao_terras": 7,
+    "divergencia_suporte": 1043,
+    "entrada_apos_corte": 501
+  },
+  "gabarito_total": 1551,
+  "verdadeiros_positivos": 1551,
+  "falsos_positivos": 0,
+  "falsos_negativos": 0,
+  "registros_distintos_com_excecao": 1550,
+  "fazendas_sinteticas_distintas": 37,
+  "desenho_amostral": {
+    "objetivo": "detectar ao menos um desvio com prevalencia >=0,25%; nao determina precisao monetaria",
+    "prevalencia_referencia": 0.0025,
+    "risco_nao_detectar": 0.05,
+    "n_minimo_aproximacao_binomial": 1197,
+    "n_adotado": 1200,
+    "probabilidade_deteccao_no_limiar": 0.9503995940962886,
+    "justificativa_revisao": "Fundamentacao explicitada na revisao; amostra original preservada. Nao e plano previo executado na companhia."
+  },
+  "excecoes_suporte_amostra_aleatoria": 2,
+  "diferenca_suporte_amostra_aleatoria_R": 2000.0,
+  "projecao_simples_diferenca_media_R": 833333.33,
+  "diferenca_suporte_populacao_R": 1118295.15,
+  "ressalva": "A projeção é indicativa: cadastro heterogêneo e exceções artificiais. Não extrapolar à SLC real.",
+  "materialidade": {
+    "base_receita_liquida_2025_R_mil": 8553147,
+    "percentual_materialidade_global": 0.005,
+    "materialidade_global_R_mil": 42765.74,
+    "materialidade_execucao_percentual_global": 0.7,
+    "materialidade_execucao_R_mil": 29936.01,
+    "limiar_acumulacao_percentual_global": 0.05,
+    "limiar_acumulacao_R_mil": 2138.29,
+    "materialidade_especifica_ativo_biologico_R_mil": 23504.21,
+    "racional": "Receita como base relativamente estável frente ao lucro volátil; percentuais são julgamento didático, não regra da NBC TA 320."
+  },
+  "analiticos": [
+    {
+      "conta": "ativo_total",
+      "2025_R_mil": 21341432,
+      "2024_R_mil": 17574342,
+      "variacao_R_mil": 3767090,
+      "variacao_percentual": 21.44,
+      "limite_investigacao_percentual": 15,
+      "investigar": true
+    },
+    {
+      "conta": "imobilizado",
+      "2025_R_mil": 7111885,
+      "2024_R_mil": 5417528,
+      "variacao_R_mil": 1694357,
+      "variacao_percentual": 31.28,
+      "limite_investigacao_percentual": 15,
+      "investigar": true
+    },
+    {
+      "conta": "estoques",
+      "2025_R_mil": 3722611,
+      "2024_R_mil": 3780562,
+      "variacao_R_mil": -57951,
+      "variacao_percentual": -1.53,
+      "limite_investigacao_percentual": 15,
+      "investigar": false
+    },
+    {
+      "conta": "ativos_biologicos",
+      "2025_R_mil": 2350421,
+      "2024_R_mil": 1785392,
+      "variacao_R_mil": 565029,
+      "variacao_percentual": 31.65,
+      "limite_investigacao_percentual": 15,
+      "investigar": true
+    },
+    {
+      "conta": "caixa_equivalentes",
+      "2025_R_mil": 2647586,
+      "2024_R_mil": 1979575,
+      "variacao_R_mil": 668011,
+      "variacao_percentual": 33.75,
+      "limite_investigacao_percentual": 15,
+      "investigar": true
+    },
+    {
+      "conta": "receita_liquida",
+      "2025_R_mil": 8553147,
+      "2024_R_mil": 6915764,
+      "variacao_R_mil": 1637383,
+      "variacao_percentual": 23.68,
+      "limite_investigacao_percentual": 15,
+      "investigar": true
+    }
+  ]
+}

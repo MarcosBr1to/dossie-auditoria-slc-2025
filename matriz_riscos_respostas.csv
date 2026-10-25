@@ -1,0 +1,9 @@
+﻿risco,afirmacoes_avaliacao,resposta_referencia
+R1 Biológicos,"Valoração; significativo: subjetividade, clima, nível 3","Modelo, áreas, produção, preço, custos e desconto; PT 540."
+R2 Receita,Ocorrência/corte; significativo: fraude presumida,"Contratos, entrega, estornos e diário; PT 240."
+R3 Hedge,Valoração/apresentação; significativo: complexidade,"Contratos, curvas, classificação e eficácia; PT 330."
+R4 Combinação Sierentz,Completude/mensuração; significativo: aquisição,"Controle/data, contraprestação, ativos/passivos e laudos; PT 600."
+R5 Imobilizado,Existência/direitos/valor; alto: magnitude e expansão,"Títulos, aquisições, baixas, depreciação e inventário; PT 530."
+R6 Dívida,Completude/classificação; alto: refinanciamento,"Circularização, contratos e covenants; PT 570."
+R7 Burla pela administração,Todas as afirmações; significativo em toda auditoria,"Lançamentos, viés e operações não usuais; PT 240."
+R8 Estoques,Existência e VRL; alto: volume/sazonalidade,"Contagem, qualidade, custo e preço posterior; PT 501."

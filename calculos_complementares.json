@@ -1,0 +1,18 @@
+{
+  "natureza": "CALCULOS SOBRE SALDOS PUBLICOS; cenarios explicitamente sinteticos",
+  "fontes": "F01 pp.105-112,167-171; F02 DFP2025 consolidado versao1",
+  "liquidez_corrente": 1.8012921934173696,
+  "capital_giro_R_mil": 4379783,
+  "cobertura_sem_estoques_biologicos": 0.690215883934942,
+  "caixa_passivo_circulante": 0.48438244387932455,
+  "caixa_emprestimos_circulantes": 1.6633898375365415,
+  "imobilizado_percentual_ativo": 33.324310196241754,
+  "MG_0_5pct_receita_R_mil": 42765.735,
+  "referencia_5pct_LAIR_R_mil": 35684.05,
+  "referencia_0_25pct_ativo_R_mil": 53353.58,
+  "execucao_biologicos_R_mil": 16452.947,
+  "diferenca_divida_gerencial_contabil_R_mil": 80970,
+  "composicao_CVM_imobilizado": "6781875 operacao + 330010 andamento + 2763422 direito uso = 9875307; base nota14 = 7111885",
+  "receita_bruta_potencial_soja_R_mil": "735431.4618816",
+  "formula_soja": "109768 * 68.59 * 97.68 / 1000; cenarios multiplicam preco e produtividade; nao e valor justo"
+}
