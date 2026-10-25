@@ -30,7 +30,6 @@
 | `matriz_cobertura.csv` | Norma, versão, itens e PT correspondente |
 | `fontes.csv` | URLs, documento, páginas/seções, exercício e acesso |
 | `manifesto_base.json` | Totais, semente e SHA-256 da base |
-| `INSTRUCOES_GITHUB.md` | Passo a passo para publicar o conteúdo no GitHub |
 
 ## Fontes e conta escolhida
 
