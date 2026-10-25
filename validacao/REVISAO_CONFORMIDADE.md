@@ -1,19 +1,8 @@
-# Revisão de conformidade — versão 2.0
+# Revisão de conformidade
 
 Preparador: Marcos Aurélio de Brito Cunha | matrícula 241021631 | 25/10/2026.  
 Natureza: revisão de consistência do material acadêmico pelo preparador.  
 Revisão por terceiro: revisor ______; data ______; observações ______.
-
-## Correções
-
-- Sumário antes da apresentação; identificação solicitada, preto e branco, numeração inferior direita e sem cabeçalho repetido.
-- Corrigida a fórmula das fazendas sintéticas; regenerados base, partes, prévia e hashes.
-- Corrigida a variação do caixa para 33,75%, as páginas das fontes e as referências cruzadas.
-- Compatibilizada a apresentação CVM/RI de imobilizado e receita. Escopo consolidado explicitado, distinguindo a controladora.
-- Fundamentado o tamanho da amostra e limitado o alcance da projeção. Exportadas detecções por ID/tipo e mapa de diferenças; 1.551 ocorrências em 1.550 IDs.
-- Acrescentadas memórias D-EC a D-600, minutas, programas, cronograma, matriz de riscos, cálculos, sensibilidade, grupo e relacionadas.
-- Ampliada pesquisa de eventos com ITR 2T26. Separada dívida contábil de medida gerencial e de cálculo contratual de covenant.
-- Normas individualizadas por versão, URL, itens, páginas, exercício, acesso e hash.
 
 ## Confronto com o roteiro
 

@@ -1,9 +1,8 @@
-# Dossiê de auditoria didático — SLC Agrícola S.A. (2025)
+# Dossiê de auditoria didático: SLC Agrícola S.A. (2025)
 
 **Preparador:** Marcos Aurélio de Brito Cunha  
 **Matrícula:** 241021631  
 **Data de preparação:** 25/10/2026  
-**Versão do conteúdo:** 2.0 — revisão de consistência pelo preparador; campo de revisão de terceiro em branco.
 
 **Natureza:** trabalho acadêmico baseado em fontes públicas e dados sintéticos. Não constitui auditoria independente nem opinião profissional sobre a companhia.
 
@@ -25,7 +24,6 @@
 | [fontes/](fontes/) | Relação das fontes e versões das normas consultadas |
 | [codigo/](codigo/) | Scripts de geração, análise, diagramação e validação |
 | [validacao/](validacao/) | Revisão de conformidade, resultado da validação e manifesto de integridade |
-| [documentacao/](documentacao/) | Instruções para baixar, reproduzir e atualizar o repositório |
 
 Os códigos PT e os nomes dos arquivos citados no PDF foram preservados. A localização de cada arquivo consta no [catálogo de caminhos](codigo/caminhos.py); os papéis integrais estão no dossiê, e os arquivos de apoio ficam em `papeis_trabalho/`.
 
@@ -52,7 +50,7 @@ O primeiro script é determinístico com semente 24120631 e regenera o CSV de 50
 
 Se o visualizador não conseguir abrir o CSV integral de 74 MB, abra [base_sintetica_previa_5000.csv](dados/sinteticos/base_sintetica_previa_5000.csv) ou um arquivo da pasta [base_partes/](dados/sinteticos/base_partes/). A prévia é **somente para navegação**, não é a amostra do PT 530. As 20 partes preservam as 500.000 linhas sem omissões; cada arquivo contém cabeçalho próprio. O CSV integral permanece como fonte canônica para todos os cálculos.
 
-**Tamanho da base:** 74.098.222 bytes (cerca de 70,7 MiB). O GitHub aceita o envio por Git de arquivos até 100 MiB, com aviso acima de 50 MiB; o upload pelo navegador aceita no máximo 25 MiB. Por isso, siga [INSTRUCOES_GITHUB.md](documentacao/INSTRUCOES_GITHUB.md) e envie o CSV com `git push`. O ZIP de transporte está ignorado por `.gitignore` e não precisa integrar o repositório.
+**Tamanho da base:** 74.098.222 bytes (cerca de 70,7 MiB). O GitHub aceita o envio por Git de arquivos até 100 MiB, com aviso acima de 50 MiB; o upload pelo navegador aceita no máximo 25 MiB. Por isso, envie o CSV com `git push`. O ZIP de transporte está ignorado por `.gitignore` e não precisa integrar o repositório.
 
 ## Leitura dos resultados
 
@@ -63,7 +61,7 @@ Os testes de população identificaram 1.043 divergências com suporte **sintét
 A matriz lista a NBC TA Estrutura Conceitual e cada NBC TA exigida de 200 a 600. Para a auditoria de 2025 e relatório de 11/03/2026, usaram-se as versões anteriores às revisões NBC TA 240 (R2) e 570 (R1), publicadas em 25/09/2026. Consulte o catálogo CFC indicado em [fontes.csv](fontes/fontes.csv) e a versão específica antes de empregar qualquer PT em prática profissional.
 
 
-## Revisão 2.0: memórias e arquivos complementares
+## Revisão
 
 O PDF inclui as memórias D-EC a D-600, com minutas completas, cronograma, controles, riscos, respostas, análises de estimativas e grupo. Cada memória integra o PT de mesmo número. Veja [REVISAO_CONFORMIDADE.md](validacao/REVISAO_CONFORMIDADE.md) para o confronto com o roteiro.
 

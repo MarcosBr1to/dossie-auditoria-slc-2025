@@ -5,7 +5,7 @@ Os nomes preservados no dossiê podem ser localizados por este catálogo.
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ARQUIVOS = {'INSTRUCOES_GITHUB.md': 'documentacao/INSTRUCOES_GITHUB.md',
+ARQUIVOS = {
  'REVISAO_CONFORMIDADE.md': 'validacao/REVISAO_CONFORMIDADE.md',
  'amostra_PT530.csv': 'papeis_trabalho/amostra_PT530.csv',
  'analise_horizontal_PT520.csv': 'papeis_trabalho/analise_horizontal_PT520.csv',
