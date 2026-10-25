@@ -4,6 +4,7 @@ Não contém registros internos da SLC nem comunicações efetivamente enviadas.
 É importado por build_dossier.py; execute audit_support.py para os cálculos.
 """
 from pathlib import Path
+from caminhos import ROOT, caminho
 import json,csv
 
 def refine_pt(pt):
@@ -36,7 +37,7 @@ def refine_pt(pt):
 
 def sections(out):
     """Cada seção de apoio é parte integrante do PT com o mesmo código."""
-    calc=json.loads((out/'calculos_complementares.json').read_text(encoding='utf-8'))
+    calc=json.loads((caminho('calculos_complementares.json', out)).read_text(encoding='utf-8'))
     def S(code,title,paras,headers=None,rows=None):
         return {'code':code,'title':title,'paragraphs':paras,'headers':headers,'rows':rows}
     a=[]
@@ -202,7 +203,7 @@ def program_rows():
       ['Estimativas','R1 sensibilidade','Cenários de preço e produtividade','Premissas divulgadas de 31/12','Subconjunto público de soja; seis cenários','sensibilidade_PT540.csv; receita potencial, não valor justo','Simulado para fins didáticos']]
 
 def read_csv(out,name):
-    with (out/name).open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f))
+    with (caminho(name, out)).open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f))
 
 def support_markdown(out):
     md=['## Memórias de cálculo e programas','',
@@ -216,7 +217,7 @@ def support_markdown(out):
     md += ['### Programas por ciclo','']
     for row in program_rows():md += ['**'+row[0]+' — '+row[1]+'**', ' | '.join(row[2:]),'']
     md += ['### Registro individual das normas','']
-    for n in json.loads((out/'registro_normas.json').read_text(encoding='utf-8')):
+    for n in json.loads((caminho('registro_normas.json', out)).read_text(encoding='utf-8')):
         md += [f"- {n['norma']}; documento {n['pdf_url']}; páginas dos itens: {n.get('paginas_itens_identificados',[])}; exercício 2025; acesso 25/10/2026; {n.get('itens_utilizados','itens nos PTs')}. SHA-256 {n['sha256']}."]
     return md
 
@@ -241,7 +242,7 @@ def support_story(P,datatable,Heading,PageBreak,Spacer,cm,out):
         rows=read_csv(out,name);story += [P(title,'section'),datatable([labels[c] for c in columns],[[x.get(c,'') for c in columns] for x in rows],[v*cm for v in widths]),Spacer(1,8)]
     story += [PageBreak(),Heading('Versões e documentos normativos','norms'),
               P('Foram consultados os documentos individuais do CFC abaixo. A matriz de cobertura liga cada norma, versão, itens e papel. As versões 240 (R1) e 570 (2016) foram preservadas para 2025; revisões publicadas em setembro de 2026 não foram aplicadas retrospectivamente. A NBC TA 600 (R2), item 12, é aplicável aos períodos iniciados em ou após 1º/01/2024. Links e hashes integrais estão em registro_normas.json.')]
-    norms=json.loads((out/'registro_normas.json').read_text(encoding='utf-8'))
+    norms=json.loads((caminho('registro_normas.json', out)).read_text(encoding='utf-8'))
     for n in norms:
         pages=', '.join(map(str,n.get('paginas_itens_identificados',[])))
         story += [P(n['norma'],'label'),P(f"{n['pdf_url']} | PDF pp. {pages} | exercício 2025 | acesso 25/10/2026",'small')]

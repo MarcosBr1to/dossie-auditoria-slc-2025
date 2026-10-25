@@ -1,7 +1,7 @@
 """Gera cadastro sintético de imobilizado da SLC Agrícola para exercício didático.
 
 Não contém registros reais. Valores de controle são saldos publicados, em R$ mil.
-Execução: python work/generate_base.py
+Execução: python codigo/generate_base.py
 """
 from __future__ import annotations
 
@@ -12,9 +12,10 @@ import random
 from collections import defaultdict
 from datetime import date, timedelta
 from pathlib import Path
+from caminhos import ROOT, caminho
 
-HERE = Path(__file__).resolve().parent
-OUT = HERE if (HERE / "README.md").exists() else HERE.parent / "outputs"
+HERE = ROOT
+OUT = ROOT
 OUT.mkdir(exist_ok=True)
 SEED = 24120631
 RNG = random.Random(SEED)
@@ -47,8 +48,8 @@ def allocate(total: int, n: int) -> list[int]:
     assert min(vals) > 0 and sum(vals) == total
     return vals
 
-base = OUT / "base_imobilizado_sintetica_500000.csv"
-oracle = OUT / "excecoes_inseridas_gabarito.csv"
+base = caminho("base_imobilizado_sintetica_500000.csv", OUT)
+oracle = caminho("excecoes_inseridas_gabarito.csv", OUT)
 totals = defaultdict(int)
 injected = defaultdict(int)
 global_id = 0
@@ -107,5 +108,5 @@ manifest = {
     "diferenca_centavos": sum(totals.values()) - 711_188_500_000,
     "excecoes_inseridas": dict(injected), "sha256_base": sha,
 }
-(OUT / "manifesto_base.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+(caminho("manifesto_base.json", OUT)).write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
 print(json.dumps(manifest, ensure_ascii=False, indent=2))

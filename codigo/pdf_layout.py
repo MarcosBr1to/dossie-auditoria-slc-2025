@@ -8,6 +8,7 @@ from __future__ import annotations
 import re
 from html import escape
 from pathlib import Path
+from caminhos import ROOT, caminho
 
 from reportlab.graphics.shapes import Drawing, Rect, String
 from reportlab.lib import colors
@@ -426,4 +427,4 @@ def build_pdf(pt, order, versions, sources, out, date, results):
     from suplemento_auditoria import support_story
     story += support_story(P, datatable, ChapterHeading, PageBreak, Spacer, cm, out)
     story += final_pages(sources,date)
-    DossierDoc(out/"dossie_auditoria_SLC_2025.pdf").multiBuild(story)
+    DossierDoc(caminho("dossie_auditoria_SLC_2025.pdf", out)).multiBuild(story)

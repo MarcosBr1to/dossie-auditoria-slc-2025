@@ -1,14 +1,15 @@
 """Gera memórias editáveis exclusivamente de divulgações públicas e premissas didáticas."""
 from pathlib import Path
+from caminhos import ROOT, caminho
 from decimal import Decimal
 import csv,json
 from suplemento_auditoria import program_rows,risk_rows
-O=Path(__file__).resolve().parent
+O=ROOT
 def write(name,headers,rows):
-    with (O/name).open('w',encoding='utf-8-sig',newline='') as f:
+    with (caminho(name, O)).open('w',encoding='utf-8-sig',newline='') as f:
         w=csv.writer(f);w.writerow(headers);w.writerows(rows)
 def read(name):
-    with (O/name).open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f))
+    with (caminho(name, O)).open(encoding='utf-8-sig',newline='') as f:return list(csv.DictReader(f))
 data=read('dados_CVM_SLC_2025.csv')
 def cvm(code,kind='BPA',year='2025-12-31'):
     rows=[r for r in data if r['arquivo']==f'dfp_cia_aberta_{kind}_con_2025.csv' and r.get('DT_FIM_EXERC')==year and r.get('VERSAO')=='1' and r.get('CD_CONTA')==code and r.get('ORDEM_EXERC')=='ÚLTIMO']
@@ -60,7 +61,7 @@ calc={'natureza':'CALCULOS SOBRE SALDOS PUBLICOS; cenarios explicitamente sintet
       'diferenca_divida_gerencial_contabil_R_mil':7809254-7728284,
       'composicao_CVM_imobilizado':'6781875 operacao + 330010 andamento + 2763422 direito uso = 9875307; base nota14 = 7111885',
       'receita_bruta_potencial_soja_R_mil':str(base),'formula_soja':'109768 * 68.59 * 97.68 / 1000; cenarios multiplicam preco e produtividade; nao e valor justo'}
-(O/'calculos_complementares.json').write_text(json.dumps(calc,ensure_ascii=False,indent=2),encoding='utf-8')
+(caminho('calculos_complementares.json', O)).write_text(json.dumps(calc,ensure_ascii=False,indent=2),encoding='utf-8')
 write('controle_circularizacao_PT505.csv',['id','terceiro','saldo_contabil','canal_validado','primeiro_envio','segundo_envio','resposta','divergencia','evidencia_alternativa','conclusao'],[])
 parties=[['SLC-MIT','controlada',15669,'controladora','crédito'],['Pioneira','controlada',2755,'controladora','crédito'],['Preciosa','controlada',948,'controladora','crédito'],['Centro-Oeste','controlada',43405,'controladora','crédito'],['Perdizes','controlada',7280,'controladora','crédito'],['Sierentz','controlada',16457,'controladora','crédito'],['SLC Participações','controladora da emissora',216,'individual e consolidado','crédito'],['SLC Máquinas','parte relacionada',16380,'consolidado','passivo de arrendamento'],['Outros saldos nota16','partes relacionadas',139,'consolidado','passivo não arrendamento']]
 assert sum(r[2] for r in parties[:7])==86730

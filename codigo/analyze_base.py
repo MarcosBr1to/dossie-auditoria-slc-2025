@@ -10,10 +10,11 @@ import random
 import math
 from collections import Counter, defaultdict
 from pathlib import Path
+from caminhos import ROOT, caminho
 
-HERE = Path(__file__).resolve().parent
-OUT = HERE if (HERE / "README.md").exists() else HERE.parent / "outputs"
-BASE = OUT / "base_imobilizado_sintetica_500000.csv"
+HERE = ROOT
+OUT = ROOT
+BASE = caminho("base_imobilizado_sintetica_500000.csv", OUT)
 RNG = random.Random(53024120631)
 
 rows = []
@@ -44,12 +45,12 @@ for r in rows:
         detected.append((r["registro_id"], h))
 
 oracle = set()
-with (OUT / "excecoes_inseridas_gabarito.csv").open(encoding="utf-8-sig", newline="") as f:
+with (caminho("excecoes_inseridas_gabarito.csv", OUT)).open(encoding="utf-8-sig", newline="") as f:
     for r in csv.DictReader(f):
         oracle.add((r["registro_id"], r["tipo_excecao"]))
 detected_set = set(detected)
 assert detected_set == oracle, (len(detected_set - oracle), len(oracle - detected_set))
-with (OUT / 'excecoes_detectadas.csv').open('w',encoding='utf-8-sig',newline='') as f:
+with (caminho('excecoes_detectadas.csv', OUT)).open('w',encoding='utf-8-sig',newline='') as f:
     w=csv.writer(f);w.writerow(['registro_id','tipo_excecao','consta_gabarito','natureza'])
     w.writerows((rid,rule,(rid,rule) in oracle,'SINTETICO') for rid,rule in sorted(detected_set))
 
@@ -58,7 +59,7 @@ counts = Counter()
 for r in rows:
     totals[r["classe"]] += r["valor_contabil_centavos"]
     counts[r["classe"]] += 1
-with (OUT / "conciliacao_imobilizado.csv").open("w", encoding="utf-8-sig", newline="") as f:
+with (caminho("conciliacao_imobilizado.csv", OUT)).open("w", encoding="utf-8-sig", newline="") as f:
     w = csv.writer(f)
     w.writerow(["classe", "n_registros_sinteticos", "base_R_mil", "nota14_R_mil", "diferenca_R_mil"])
     expected = {"terras_cultura":3315500,"correcao_solo":1052113,"predios_benfeitorias":797295,
@@ -82,7 +83,7 @@ for i in sorted(sample_idx):
                    "classe":r["classe"], "valor_contabil_centavos":r["valor_contabil_centavos"],
                    "excecoes_identificadas":";".join(tests(r)),
                    "diferenca_suporte_centavos":r["valor_suporte_sintetico_centavos"]-r["valor_contabil_centavos"]})
-with (OUT / "amostra_PT530.csv").open("w", encoding="utf-8-sig", newline="") as f:
+with (caminho("amostra_PT530.csv", OUT)).open("w", encoding="utf-8-sig", newline="") as f:
     w = csv.DictWriter(f, fieldnames=list(sample[0]))
     w.writeheader(); w.writerows(sample)
 
@@ -103,7 +104,7 @@ materiality = {
  "materialidade_especifica_ativo_biologico_R_mil":23504.21,
  "racional":"Receita como base relativamente estável frente ao lucro volátil; percentuais são julgamento didático, não regra da NBC TA 320."
 }
-(OUT / "materialidade_editavel.json").write_text(json.dumps(materiality,ensure_ascii=False,indent=2),encoding="utf-8")
+(caminho("materialidade_editavel.json", OUT)).write_text(json.dumps(materiality,ensure_ascii=False,indent=2),encoding="utf-8")
 analytics = []
 for name, v25, v24 in [
     ("ativo_total",21341432,17574342),("imobilizado",7111885,5417528),
@@ -112,7 +113,7 @@ for name, v25, v24 in [
     analytics.append({"conta":name,"2025_R_mil":v25,"2024_R_mil":v24,
                       "variacao_R_mil":v25-v24,"variacao_percentual":round((v25/v24-1)*100,2),
                       "limite_investigacao_percentual":15,"investigar":abs(v25/v24-1)>0.15})
-with (OUT / "analise_horizontal_PT520.csv").open("w", encoding="utf-8-sig",newline="") as f:
+with (caminho("analise_horizontal_PT520.csv", OUT)).open("w", encoding="utf-8-sig",newline="") as f:
     w=csv.DictWriter(f,fieldnames=list(analytics[0]));w.writeheader();w.writerows(analytics)
 
 results = {
@@ -135,8 +136,8 @@ results = {
  "ressalva":"A projeção é indicativa: cadastro heterogêneo e exceções artificiais. Não extrapolar à SLC real.",
  "materialidade":materiality,"analiticos":analytics
 }
-(OUT / "resultados_testes.json").write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding="utf-8")
-with (OUT/'mapa_distorcoes_PT450.csv').open('w',encoding='utf-8-sig',newline='') as f:
+(caminho("resultados_testes.json", OUT)).write_text(json.dumps(results,ensure_ascii=False,indent=2),encoding="utf-8")
+with (caminho('mapa_distorcoes_PT450.csv', OUT)).open('w',encoding='utf-8-sig',newline='') as f:
     w=csv.writer(f);w.writerow(['tipo','n','efeito_campo_R','tratamento','status','conclusao'])
     w.writerow(['divergencia_suporte',pop_counts['divergencia_suporte'],results['diferenca_suporte_populacao_R'],'suporte menos contabil; nao e ajuste comprovado','SIMULADO - nao corrigido na base','menor que limiar quantitativo; acumulado por finalidade didatica'])
     w.writerow(['entrada_apos_corte',pop_counts['entrada_apos_corte'],'nao determinado','saldo dos itens nao equivale automaticamente a distorcao','SIMULADO - nao corrigido na base','avaliacao qualitativa de corte; requer documento real'])

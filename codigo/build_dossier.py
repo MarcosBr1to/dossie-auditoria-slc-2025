@@ -7,6 +7,7 @@ import re
 from datetime import date
 from html import escape
 from pathlib import Path
+from caminhos import ROOT, caminho
 
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_CENTER, TA_LEFT
@@ -17,10 +18,10 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (BaseDocTemplate, Frame, KeepTogether, NextPageTemplate,
                                PageBreak, PageTemplate, Paragraph, Spacer, Table, TableStyle)
 
-HERE = Path(__file__).resolve().parent
-OUT = HERE if (HERE / "README.md").exists() else HERE.parent / "outputs"
+HERE = ROOT
+OUT = ROOT
 OUT.mkdir(exist_ok=True)
-RESULT = json.loads((OUT / "resultados_testes.json").read_text(encoding="utf-8"))
+RESULT = json.loads((caminho("resultados_testes.json", OUT)).read_text(encoding="utf-8"))
 DATE = "25/10/2026"
 RI_PDF = "https://ri.slcagricola.com.br/wp-content/themes/mziq_slc-agricola_ri_redesign/assets/rad2025/uploads/Demonstracoes_Financeiras_Anuais_Completas.pdf"
 SOURCES = [
@@ -39,7 +40,7 @@ SOURCES = [
 ]
 SOURCES += [("F13","SLC Agrícola RI", "ITR 30/06/2026 e revisão EY de 12/08/2026", "https://api.mziq.com/mzfilemanager/v2/d/a975c39b-3eca-4ad8-9330-2c0a0b8d1060/8d1db399-886e-9850-dbb5-102265342bcd", "PDF pp. 85-86, 126 e 137; impressas 84-85, 125 e 136", "2T2026"),
 ("F14","SLC Agrícola RI", "Central de Resultados", "https://ri.slcagricola.com.br/informacoes-aos-investidores/central-de-resultados/", "tabela 2026: 1T26 e 2T26; 3T26 e 4T26 sem documento na consulta", "2026")]
-with (OUT / "fontes.csv").open("w",encoding="utf-8-sig",newline="") as f:
+with (caminho("fontes.csv", OUT)).open("w",encoding="utf-8-sig",newline="") as f:
     w=csv.writer(f);w.writerow(["id","emissor","documento","url","pagina_secao","exercicio","data_acesso"])
     for row in SOURCES:w.writerow([*row,DATE])
 
@@ -92,8 +93,8 @@ PT["500"] = tuple(s.replace("F01-F08", "F01-F10") for s in PT["500"])
 from suplemento_auditoria import refine_pt, support_markdown
 PT = refine_pt(PT)
 assert set(PT)==set(ORDER) and len(ORDER)==27
-with (OUT / "matriz_cobertura.csv").open("w",encoding="utf-8-sig",newline="") as f:
-    norms=json.loads((OUT/'registro_normas.json').read_text(encoding='utf-8'))
+with (caminho("matriz_cobertura.csv", OUT)).open("w",encoding="utf-8-sig",newline="") as f:
+    norms=json.loads((caminho('registro_normas.json', OUT)).read_text(encoding='utf-8'))
     mapping={(re.search(r'\d{3}',n['norma']).group() if re.search(r'\d{3}',n['norma']) else 'EC'):n for n in norms}
     w=csv.writer(f);w.writerow(["norma_versao","papel_trabalho","itens_referenciados","status","documento_url","paginas_PDF_dos_itens","exercicio","data_acesso"])
     for code in ORDER:
@@ -125,7 +126,7 @@ md += ["## Conclusão integrada", "", "A leitura das DFs, notas, relatório EY, 
 for sid,emissor,doc,url,page,year in SOURCES:
     md += [f"- {sid} — {emissor}; {doc}; exercício {year}; {page}; acesso {DATE}; {url}"]
 md += ["", "Versões das NBC TA: F04, catálogo CFC consultado em 25/10/2026; para 240 e 570 foi usada a versão anterior às revisões publicadas após o relatório de 11/03/2026. Os itens referenciados devem ser lidos no texto normativo da versão indicada."]
-(OUT / "dossie_editavel.md").write_text("\n".join(md), encoding="utf-8")
+(caminho("dossie_editavel.md", OUT)).write_text("\n".join(md), encoding="utf-8")
 
 from pdf_layout import build_pdf
 build_pdf(PT, ORDER, VERSIONS, SOURCES, OUT, DATE, RESULT)

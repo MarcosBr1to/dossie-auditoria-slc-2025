@@ -1,6 +1,6 @@
 """Divide o CSV sintético em partes menores e gera prévia de 5.000 linhas.
 
-Execute na pasta que contém a base: python split_base.py
+Execute na raiz do repositório: python codigo/split_base.py
 Arquivos da pasta base_partes/ são cópias completas, sem omissões, quando unidos
 na ordem do manifesto; não são registros reais da SLC Agrícola.
 """
@@ -10,10 +10,11 @@ import csv
 import hashlib
 import json
 from pathlib import Path
+from caminhos import ROOT, caminho
 
-HERE = Path(__file__).resolve().parent
-SOURCE = HERE / "base_imobilizado_sintetica_500000.csv"
-PART_DIR = HERE / "base_partes"
+HERE = ROOT
+SOURCE = caminho("base_imobilizado_sintetica_500000.csv", HERE)
+PART_DIR = caminho("base_partes", HERE)
 PART_DIR.mkdir(exist_ok=True)
 PART_SIZE = 25_000
 PREVIEW_EVERY = 100
@@ -28,7 +29,7 @@ total_sum = 0
 preview_count = 0
 
 with SOURCE.open(encoding="utf-8-sig", newline="") as source, \
-     (HERE / "base_sintetica_previa_5000.csv").open("w", encoding="utf-8-sig", newline="") as sample_file:
+     (caminho("base_sintetica_previa_5000.csv", HERE)).open("w", encoding="utf-8-sig", newline="") as sample_file:
     reader = csv.DictReader(source)
     assert reader.fieldnames is not None
     sample_writer = csv.DictWriter(sample_file, fieldnames=reader.fieldnames)
