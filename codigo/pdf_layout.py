@@ -147,14 +147,17 @@ class DossierDoc(BaseDocTemplate):
         w, h = A4
         center = (3*cm + (w-2*cm))/2
         canvas.setFillColor(colors.black)
+        canvas.setFont("Arial-Bold", 12)
+        canvas.drawCentredString(center, h-3*cm, "UNIVERSIDADE DE BRASÍLIA")
         canvas.setFont("Arial", 12)
-        canvas.drawCentredString(center, h-3.5*cm, "MARCOS AURÉLIO DE BRITO CUNHA")
-        canvas.drawCentredString(center, h-4.2*cm, "Matrícula: 241021631")
+        canvas.drawCentredString(center, h-5.2*cm, "MARCOS AURÉLIO DE BRITO CUNHA")
+        canvas.drawCentredString(center, h-5.9*cm, "Matrícula: 241021631")
         canvas.setFont("Arial-Bold", 14)
         canvas.drawCentredString(center, h/2+1.1*cm, "DOSSIÊ DE AUDITORIA")
         canvas.drawCentredString(center, h/2+0.35*cm, "SLC AGRÍCOLA S.A.")
         canvas.setFont("Arial", 12)
         canvas.drawCentredString(center, h/2-0.55*cm, "Demonstrações contábeis do exercício de 2025")
+        canvas.drawCentredString(center, h/2-2.5*cm, "Professor: Lucas Oliveira Gomes Ferreira")
         canvas.drawCentredString(center, 2.5*cm, "2026")
         canvas.restoreState()
 
@@ -245,7 +248,7 @@ def chapter_intro(title, codes):
             Spacer(1, 9)]
 
 def cover_story(date):
-    # Capa acadêmica: autor, título e ano; instituição e cidade não informadas.
+    # Capa acadêmica: instituição, autor, matrícula, título, professor e ano.
     return [Spacer(1, cm), NextPageTemplate("body"), PageBreak()]
 
 def executive_pages(results, sources):

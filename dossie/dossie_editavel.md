@@ -1,5 +1,7 @@
 # Dossiê de auditoria didático — SLC Agrícola S.A. | exercício 2025
 
+**Instituição:** Universidade de Brasília  |  **Professor:** Lucas Oliveira Gomes Ferreira
+
 **Preparador:** Marcos Aurélio de Brito Cunha  |  **Matrícula:** 241021631  |  **Preparação:** 25/10/2026  |  **Versão:** 2.0
 
 **Natureza:** estudo acadêmico. Os registros SYN são integralmente sintéticos; nenhum acesso interno, circularização, entrevista ou inspeção física foi realizado. Não há opinião profissional independente emitida neste dossiê.
